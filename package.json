@@ -14,7 +14,7 @@
     "js-yaml": "^3.13.1",
     "lodash.mapvalues": "^4.6.0",
     "lodash.omitby": "^4.6.0",
-    "multimatch": "^2.0.0",
+    "multimatch": "^7.0.0",
     "node.extend": "^1.1.8"
   },
   "devDependencies": {},
